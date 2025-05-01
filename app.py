@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 DS_job_salaries_data = pd.read_csv('ds_job_salaries_cleaned.csv')
 
 st.set_page_config(layout="wide")
-st.markdown("### 📌 Above by Abhinav Rai")
+st.markdown("### 📌 By Abhinav Rai")
 st.title("📊 Data Science Job Salary Analysis")
 
 # SECTION 1
